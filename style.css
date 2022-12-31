@@ -1,0 +1,192 @@
+body{
+    background-color:lavenderblush;
+}
+h1{
+    margin: 0;
+}
+/* Navbar */
+a{
+    text-decoration: none;
+    padding: 10px;
+}
+.brandname{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: "Quicksand";
+    font-weight: lighter;
+}
+.navmenu{
+    padding: 10px;
+    margin-right: 0.5rem;
+}
+.menu{
+    margin-left: 500px;
+    margin-top: 20px;
+    position: absolute;
+    font-family: "Ubuntu";
+  
+}
+.bn1{
+    color: rgb(255, 179, 0);;
+}
+/* First Column */
+
+.heading1{
+    margin-top: 100px;
+    margin-left: 100px;
+    position: absolute;
+    font-size: 50px;
+    font-family:" Montserrat";
+}
+.heading2{
+    margin-top: 240px;
+    margin-left: 100px;
+    position: absolute;
+    color: rgba(0, 1, 1, 0.847);
+    font-family: "Ubuntu";
+}
+.heading3{
+    margin-top: 330px;
+    margin-left: 100px;
+    position: absolute;
+    color: rgb(255, 179, 0);
+    font-size: 25px;
+    font-family: "Ubuntu";
+}
+.heading4{
+    margin-top: 365px;
+    margin-left: 100px;
+    position: absolute;
+    font-size: 25px;
+    font-family: Montserrat;
+}
+.heading5{
+    margin-top: 400px;
+    margin-left: 100px;
+    position: absolute;
+    font-size: 15px;
+    color: darkgray;
+    font-family: "Ubuntu";
+}
+.image1{
+    margin-top: 60px;
+    margin-left:600px;
+    position: absolute;
+    height: 400px;
+    width: 600px;
+
+}
+.icon{
+    margin-top: 375px;
+    margin-left: 350px;
+    position: absolute;
+}
+.potterybarn{
+    margin-top: 480px;
+    margin-left: 90px;
+    height: 80px;
+    width: 140px;
+    position: absolute;
+}
+.minted{
+    margin-top: 490px;
+    margin-left: 300px;
+    height: 60px;
+    width: 120px;
+    position: absolute;
+}
+.cratebarrel{
+    margin-top: 490px;
+    margin-left: 500px;
+    height: 40px;
+    width: 190px;
+    position: absolute;
+}
+.joybird{
+    margin-top: 490px;
+    margin-left: 800px;
+    height: 40px;
+    width: 190px;
+    position: absolute;
+}
+.wayfair{
+    margin-top: 490px;
+    margin-left: 1100px;
+    height: 40px;
+    width: 190px;
+    position: absolute;
+}
+
+/* Sofa Section */
+
+.sofa1{
+    height: 500px;
+    width:500px;
+}
+.sofa-pro1{
+    margin-left: 100px;
+    margin-top: 70px;
+    padding: 10px;
+    position: absolute;
+}
+
+.sofa2{
+   
+    height: 500px;
+    width:500px; 
+}
+.sofa-pro2{
+    margin-left: 700px;
+    margin-top: 70px;
+    padding: 10px;
+    position: absolute;
+}
+
+.sofa3{
+   
+    height: 500px;
+    width:500px;
+   
+ 
+}
+.sofa-pro3{
+    margin-left: 100px;
+    margin-top: 750px;
+    padding: 10px;
+    position: absolute;
+}
+
+.sofa4{
+   
+    height: 500px;
+    width:500px;
+   
+}
+.sofa-pro4{
+    margin-left: 700px;
+    margin-top: 750px;
+    padding: 10px;
+    position: absolute;
+ 
+}
+
+/* Contact Form */
+
+.feedback{
+ 
+    height: 200px;
+    width: 100px;
+   margin-top: 200px;
+   position: absolute;
+   margin-left: 600px;
+}
+
+.h4{
+    margin-top: 450px;
+    margin-left: 500px;
+    position: absolute;
+}
+.h3{
+    color: orangered;
+}
